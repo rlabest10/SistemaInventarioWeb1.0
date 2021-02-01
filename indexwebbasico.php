@@ -22,7 +22,7 @@
     </nav>
     <!-- Aqui Termina el NavBar -->
     <h1>Inicio del Sistema</h1>
-    
+        JAJAJA inicio de Prueba
     <div class="main_section">
     
     </div>
